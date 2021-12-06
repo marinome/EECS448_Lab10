@@ -4,7 +4,6 @@ html{
     background-image: linear-gradient(#667EEA, #764BA2);
     color: white;
     background-clip: content-box, padding-box;
-    text-indent: 25px;
 }
 body{
     font-family: Comic Sans MS;
@@ -13,9 +12,12 @@ body{
     background-size: 50%
     background-repeat: no-repeat;
     color: white;
+    padding: 50px;
 }
 button{
     font-family: Comic Sans MS;
+    background-color: black;
+    color: white;
 }
 table{
     border: 1px solid white;

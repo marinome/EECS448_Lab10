@@ -1,6 +1,6 @@
 <style> <?php include '../style.css'; ?> </style>
 <?php
-    $mysqli = new mysqli("mysql.eecs.ku.edu", "m183m438", "Ethan'sPeach4", "m183m438");
+    $mysqli = new mysqli("mysql.eecs.ku.edu", "m183m438", "oogh3Ahx", "m183m438");
     if ($mysqli->connect_error){
         printf("Connect: %s\n", $mysqli->connect_error); exit();
     }
